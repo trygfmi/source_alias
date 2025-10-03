@@ -1,0 +1,2 @@
+alias hello='echo "hello macos source command"'
+alias print_git_version="git --version"
