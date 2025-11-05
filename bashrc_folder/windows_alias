@@ -1,3 +1,2 @@
 alias hello='echo "hello windows source command"'
 alias print_git_version="git --version"
-hello
