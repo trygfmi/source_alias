@@ -29,17 +29,12 @@
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.git
-cd source_alias
-cat bashrc_folder/ubuntu_alias
-source bashrc_folder/ubuntu_alias
-hello
-print_git_version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.gitcd source_aliascat bashrc_folder/ubuntu_aliassource bashrc_folder/ubuntu_aliashelloprint_git_version</code></pre>
 
 
 
 <details class="wp-block-details"><summary>出力結果</summary>
-<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello ubuntu source command"
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello ubuntu source command
 git version 2.51.0</code></pre>
 </details>
 
@@ -53,18 +48,12 @@ git version 2.51.0</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git clone https://github.com/trygfmi/source_alias.git
-cd source_alias
-cat bashrc_folder/macos_alias
-source bashrc_folder/macos_alias
-hello
-print_git_version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit clone https://github.com/trygfmi/source_alias.gitcd source_aliascat bashrc_folder/macos_aliassource bashrc_folder/macos_aliashelloprint_git_version</code></pre>
 
 
 
 <details class="wp-block-details"><summary>出力結果</summary>
-<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello macos source command"
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello macos source command
 git version 2.51.0</code></pre>
 </details>
 
@@ -78,12 +67,7 @@ git version 2.51.0</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.git
-cd source_alias
-cat bashrc_folder/windows_alias
-source bashrc_folder/windows_alias
-hello
-print_git_version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.gitcd source_aliascat bashrc_folder/windows_aliassource bashrc_folder/windows_aliashelloprint_git_version</code></pre>
 
 
 
@@ -98,12 +82,7 @@ git version 2.51.0</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.git
-cd source_alias
-cat bashrc_folder/windows_alias
-source bashrc_folder/windows_alias
-hello
-print_git_version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.gitcd source_aliascat bashrc_folder/windows_aliassource bashrc_folder/windows_aliashelloprint_git_version</code></pre>
 
 
 
@@ -131,7 +110,7 @@ git version 2.51.0</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
 
 
 
@@ -143,7 +122,7 @@ git version 2.51.0</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
 
 
 
@@ -155,12 +134,7 @@ git version 2.51.0</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.git
-cd source_alias
-cat bashrc_folder/ubuntu_alias
-source bashrc_folder/ubuntu_alias
-hello
-print_git_version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.gitcd source_aliascat bashrc_folder/ubuntu_aliassource bashrc_folder/ubuntu_aliashelloprint_git_version</code></pre>
 
 
 
@@ -185,8 +159,7 @@ git version 2.51.0</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit --version</code></pre>
 
 
 
@@ -218,8 +191,7 @@ git --version</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install git
-echo 'alias git="/opt/local/bin/git"' &gt;&gt; ~/bashrc_folder/macports_alias</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install gitecho 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias</code></pre>
 
 
 
@@ -231,13 +203,7 @@ echo 'alias git="/opt/local/bin/git"' &gt;&gt; ~/bashrc_folder/macports_alias</c
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git clone https://github.com/trygfmi/source_alias.git
-cd source_alias
-cat bashrc_folder/macos_alias
-source bashrc_folder/macos_alias
-hello
-print_git_version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit clone https://github.com/trygfmi/source_alias.gitcd source_aliascat bashrc_folder/macos_aliassource bashrc_folder/macos_aliashelloprint_git_version</code></pre>
 
 
 
@@ -266,7 +232,7 @@ git version 2.51.0</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
 
 
 
@@ -274,7 +240,7 @@ git version 2.51.0</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
 
 
 
@@ -302,7 +268,7 @@ git version 2.51.0</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
 
 
 
@@ -310,7 +276,7 @@ git version 2.51.0</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>pacman --sync git</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>pacman --sync git</code></pre>
 
 
 
@@ -326,12 +292,7 @@ git version 2.51.0</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.git
-cd source_alias
-cat bashrc_folder/windows_alias
-source bashrc_folder/windows_alias
-hello
-print_git_version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.gitcd source_aliascat bashrc_folder/windows_aliassource bashrc_folder/windows_aliashelloprint_git_version</code></pre>
 
 
 
@@ -346,12 +307,7 @@ git version 2.51.0</code></pre>
 
 
 
-<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>git clone https://github.com/trygfmi/source_alias.git
-cd source_alias
-cat bashrc_folder/windows_alias
-source bashrc_folder/windows_alias
-hello
-print_git_version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.gitcd source_aliascat bashrc_folder/windows_aliassource bashrc_folder/windows_aliashelloprint_git_version</code></pre>
 
 
 
@@ -376,4 +332,3 @@ git version 2.51.0</code></pre>
 
 
 <p></p>
-
