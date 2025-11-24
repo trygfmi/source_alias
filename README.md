@@ -3,7 +3,9 @@
 
 
 
+<div class="wp-block-group">
 <p>このリポジトリは、sourceコマンドを実行してエイリアスファイルに記述されたコマンドを実行できるようにします</p>
+</div>
 
 
 
@@ -11,9 +13,11 @@
 
 
 
+<div class="wp-block-group">
 <ol class="wp-block-list">
 <li>git</li>
 </ol>
+</div>
 
 
 
@@ -21,6 +25,7 @@
 
 
 
+<div class="wp-block-group">
 <p>上記のコマンドをインストール済みの方は、以下のコマンドを実行してリポジトリからダウンロード後、ディレクトリを移動しsourceコマンドを実行して、エイリアスファイルに記述されたコマンドを実行してみてください</p>
 
 
@@ -29,6 +34,7 @@
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.git
 cd source_alias
 cat bashrc_folder/ubuntu_alias
@@ -42,6 +48,7 @@ print_git_version</code></pre>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello ubuntu source command
 git version 2.51.0</code></pre>
 </details>
+</div>
 
 
 
@@ -49,6 +56,7 @@ git version 2.51.0</code></pre>
 
 
 
+<div class="wp-block-group">
 <h4 class="wp-block-heading">MacPorts</h4>
 
 
@@ -67,6 +75,7 @@ print_git_version</code></pre>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello macos source command
 git version 2.51.0</code></pre>
 </details>
+</div>
 
 
 
@@ -74,10 +83,12 @@ git version 2.51.0</code></pre>
 
 
 
+<div class="wp-block-group">
 <h4 class="wp-block-heading">WSL2</h4>
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.git
 cd source_alias
 cat bashrc_folder/windows_alias
@@ -91,6 +102,7 @@ print_git_version</code></pre>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello windows source command
 git version 2.51.0</code></pre>
 </details>
+</div>
 
 
 
@@ -98,6 +110,7 @@ git version 2.51.0</code></pre>
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.git
 cd source_alias
 cat bashrc_folder/windows_alias
@@ -111,6 +124,9 @@ print_git_version</code></pre>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello windows source command
 git version 2.51.0</code></pre>
 </details>
+</div>
+</div>
+</div>
 
 
 
@@ -118,6 +134,7 @@ git version 2.51.0</code></pre>
 
 
 
+<div class="wp-block-group">
 <h3 class="wp-block-heading">ubuntu</h3>
 
 
@@ -127,11 +144,13 @@ git version 2.51.0</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを端末に打ち込んでcommand not foundが出なければokです</p>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+</div>
 
 
 
@@ -139,11 +158,13 @@ git version 2.51.0</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>端末でcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
+</div>
 
 
 
@@ -151,6 +172,7 @@ git version 2.51.0</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細のような文字列を出力します</p>
 
 
@@ -168,6 +190,7 @@ print_git_version</code></pre>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello ubuntu source command
 git version 2.51.0</code></pre>
 </details>
+</div>
 </details>
 
 
@@ -181,6 +204,7 @@ git version 2.51.0</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドをターミナルに打ち込んでcommand not foundが出なければokです</p>
 
 
@@ -207,6 +231,7 @@ git --version</code></pre>
 
 
 [![MacPortsでインストールしたコマンドのエイリアス設定](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/thumbnail_macports2.png,)](https://ss523971.stars.ne.jp/todo/how-to-setup-macports-alias)
+</div>
 
 
 
@@ -214,12 +239,14 @@ git --version</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>ターミナルでcommand not foundが出たコマンドを以下のコマンドでインストールしてエイリアスを設定してください</p>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install git
 echo 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias</code></pre>
+</div>
 
 
 
@@ -227,6 +254,7 @@ echo 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias</code></
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細のような文字列を出力します</p>
 
 
@@ -245,6 +273,7 @@ print_git_version</code></pre>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello macos source command
 git version 2.51.0</code></pre>
 </details>
+</div>
 </details>
 
 
@@ -258,6 +287,7 @@ git version 2.51.0</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドをプロンプトに打ち込んでcommand not foundが出なければokです</p>
 
 
@@ -287,6 +317,7 @@ git version 2.51.0</code></pre>
 
 
 [![](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/msys2_thumbnail_1920_1080.png)](https://ss523971.stars.ne.jp/todo/how-to-install-msys2)
+</div>
 
 
 
@@ -294,6 +325,7 @@ git version 2.51.0</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>プロンプトでcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
 
 
@@ -311,6 +343,7 @@ git version 2.51.0</code></pre>
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>pacman --sync git</code></pre>
+</div>
 
 
 
@@ -318,6 +351,7 @@ git version 2.51.0</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細のような文字列をを出力します</p>
 
 
@@ -326,6 +360,7 @@ git version 2.51.0</code></pre>
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.git
 cd source_alias
 cat bashrc_folder/windows_alias
@@ -339,6 +374,7 @@ print_git_version</code></pre>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello windows source command
 git version 2.51.0</code></pre>
 </details>
+</div>
 
 
 
@@ -346,6 +382,7 @@ git version 2.51.0</code></pre>
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/source_alias.git
 cd source_alias
 cat bashrc_folder/windows_alias
@@ -359,7 +396,10 @@ print_git_version</code></pre>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>hello windows source command
 git version 2.51.0</code></pre>
 </details>
+</div>
+</div>
 </details>
+</div>
 
 
 
@@ -367,12 +407,6 @@ git version 2.51.0</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>aliasコマンドでhelloとprint_git_versionを定義しています<br>sourceコマンドを実行することで2つをコマンドとして実行できるようになりますが、ターミナルを閉じるとsourceコマンドまたはaliasコマンドを実行するまで使用できない点には注意してください</p>
-
-
-
-<p></p>
-
-
-
-<p></p>
+</div>
