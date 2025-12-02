@@ -1,7 +1,5 @@
-.env
-feature
-test
 command_example.sh
-get-code-editor-value.py
-start_update-readme.sh
-update_readme.sh
+feature
+readme
+test
+.env
