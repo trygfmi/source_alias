@@ -1,5 +1,1 @@
-command_example.sh
-feature
-readme
-test
-.env
+*.env

@@ -1,0 +1,16 @@
+This repository allows you to run commands in an alias file by running the source command.
+If you have already installed the above command, run the following command to download it from the repository, then change the directory and run the source command to execute the commands written in the alias file.
+Enter the following command into the terminal and if command not found does not appear, it is OK.
+If the command not found appears in the terminal, please install it using the following command.
+Execute the following command to output a string like this:
+Enter the following command into the terminal and if command not found does not appear, it is OK.
+*MacOS uses the MacPorts package manager to manage commands. If you haven't installed it yet, please see the MacPorts installation instructions at the link below.
+It also allows you to set aliases for commands so that you can call them without conflicting with existing environments.
+If you are using this blog for the first time, please refer to the following two articles to set up your environment.
+If the command not found appears in the terminal, install it using the following command and set an alias.
+Execute the following command to output a string like this:
+Enter the following command into the prompt and if command not found does not appear, it's OK.
+*Windows has been confirmed to work with WSL2 and MSYS2 MINGW64. Please install WSL2 if possible, and if you are unable to set it up, you can run it by installing MSYS2, but there may be some commands that can only be run in WSL2. Please refer to the following article for instructions on how to install WSL2 and MSYS2.
+If the command not found appears in the prompt, please install it using the following command.
+Executing the following command will output a string like this:
+The alias command defines hello and print_git_version. By executing the source command, you can execute these commands. However, if you close the terminal, you will not be able to use them until you execute the source or alias command.

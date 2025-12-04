@@ -1,0 +1,7 @@
+source ~/bashrc_folder/macports_alias
+git clone https://github.com/trygfmi/source_alias.git
+cd source_alias
+cat bashrc_folder/macos_alias
+source bashrc_folder/macos_alias
+hello
+print_git_version
