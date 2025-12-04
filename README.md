@@ -408,5 +408,5 @@ git version 2.51.0</code></pre>
 
 
 <div class="wp-block-group">
-<p>aliasコマンドでhelloとprint_git_versionを定義しています<br>sourceコマンドを実行することで2つをコマンドとして実行できるようになりますが、ターミナルを閉じるとsourceコマンドまたはaliasコマンドを実行するまで使用できない点には注意してください</p>
+<p>aliasコマンドでhelloとprint_git_versionを定義しています.<br>sourceコマンドを実行することで2つをコマンドとして実行できるようになりますが、ターミナルを閉じるとsourceコマンドまたはaliasコマンドを実行するまで使用できない点には注意してください.</p>
 </div>
